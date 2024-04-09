@@ -7,8 +7,6 @@
 ## Introduction
 This repository contains all my programming assignments and quiz questions and their solutions for this specialization course. All the source code and data are taken from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). The solutions posted here are only for reference purposes.
 
-## About the Course:
-As a student of CSE and a self-taught learner, I have completed many CS-related online courses from Coursera, Freecodecamp, Bohubrihi, and Datacamp. Sometimes it's very hard to find exact solutions and have to invest time in debugging and further reading. For completing this course I also stuck several times completing programming assignments and solving quiz questions. And I tried several times to pass these tasks/exams. When I was stuck for a long time I also took help from google/youtube/course_materials. This specialization course has 5 courses in total. And it will take several months to complete the course. I think this course gives me a proper path to becoming a deep learning engineer. When you are stuck, try to solve the problems by yourself and then take help from several sources to learn properly. I think this is the best deep learning course for those who want to learn deep learning from scratch. Thanks a lot to Andrew Ng and deepleaning.ai them.
 
 ## Course Certificate
 
